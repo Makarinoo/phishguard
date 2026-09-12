@@ -82,7 +82,7 @@ Orange, SFR, les grandes banques françaises, SNCF Connect, Leboncoin, Vinted…
 **Prérequis :** Python 3.10 ou plus. Rien d'autre.
 
 ```bash
-git clone https://github.com/<votre-compte>/phishguard.git
+git clone https://github.com/Makarinoo/phishguard.git
 cd phishguard
 ```
 
