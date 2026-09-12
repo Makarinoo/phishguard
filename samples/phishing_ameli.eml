@@ -1,0 +1,37 @@
+Return-Path: <bounce@mail-ameli-remboursement.top>
+Received: from mail-ameli-remboursement.top (unknown [185.225.19.44])
+	by mx.exemple.fr with ESMTP id 4Rk2hQ1
+	for <victime@exemple.fr>; Tue, 9 Sep 2026 08:14:22 +0200 (CEST)
+Authentication-Results: mx.exemple.fr;
+	spf=fail (sender IP is 185.225.19.44) smtp.mailfrom=mail-ameli-remboursement.top;
+	dkim=none header.d=none;
+	dmarc=fail action=quarantine header.from=ameli-assurance.top
+Received-SPF: Fail (mx.exemple.fr: domain of mail-ameli-remboursement.top does not designate 185.225.19.44 as permitted sender)
+From: "Ameli - Assurance Maladie" <no-reply@ameli-assurance.top>
+Reply-To: service.remboursement2026@gmail.com
+To: victime@exemple.fr
+Subject: URGENT : votre remboursement de 289,47 EUR expire sous 48h !!
+Date: Tue, 9 Sep 2026 08:14:20 +0200
+Message-ID: <20260909061420.9f3a@smtp-relay.bulkmailer.ru>
+MIME-Version: 1.0
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 8bit
+
+<html><body>
+<p>Cher client,</p>
+<p>Suite &agrave; une erreur de calcul sur vos derniers d&eacute;comptes, un
+trop-per&ccedil;u de <b>289,47 EUR</b> vous est d&ucirc;. Ce remboursement
+expire sous 48h et sera annul&eacute; sans d&eacute;lai si vous n'agissez pas.</p>
+<p><b>Action requise :</b> merci de confirmer votre identit&eacute; et de
+mettre &agrave; jour vos coordonn&eacute;es bancaires (IBAN) afin de recevoir
+le virement.</p>
+<p><a href="http://ameli-assurance.top@194.36.189.7/secure/login/verify.php?id=8821">
+https://www.ameli.fr/compte/remboursement</a></p>
+<p>Vous pouvez aussi utiliser ce lien : <a href="https://bit.ly/3xQm2Zk">acc&eacute;der &agrave; mon compte</a></p>
+<p>Sans validation de votre part, votre compte sera suspendu et
+d&eacute;finitivement supprim&eacute;.</p>
+<p style="font-size:0;color:#ffffff;background:#ffffff">livraison colis suivi commande facture standard</p>
+<p style="display:none">texte de remplissage anti spam</p>
+<p style="visibility:hidden">encore du texte cach&eacute;</p>
+<p>L'&eacute;quipe Ameli</p>
+</body></html>

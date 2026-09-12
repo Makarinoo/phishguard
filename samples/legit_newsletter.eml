@@ -1,0 +1,43 @@
+Return-Path: <bounces+91827-a1b2@sncf-connect.com>
+Received: from mail-92.sncf-connect.com (mail-92.sncf-connect.com [52.31.44.18])
+	by mx.exemple.fr with ESMTPS id 7Yh1kL9
+	for <client@exemple.fr>; Mon, 8 Sep 2026 10:02:11 +0200 (CEST)
+Authentication-Results: mx.exemple.fr;
+	spf=pass smtp.mailfrom=sncf-connect.com;
+	dkim=pass header.d=sncf-connect.com;
+	dmarc=pass action=none header.from=sncf-connect.com
+Received-SPF: Pass (mx.exemple.fr: domain of sncf-connect.com designates 52.31.44.18 as permitted sender)
+From: "SNCF Connect" <confirmation@sncf-connect.com>
+To: client@exemple.fr
+Subject: Votre billet Paris - Lyon du 14 septembre
+Date: Mon, 8 Sep 2026 10:02:09 +0200
+Message-ID: <20260908080209.4412@sncf-connect.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="b1_sep2026"
+
+--b1_sep2026
+Content-Type: text/plain; charset="UTF-8"
+
+Bonjour Camille,
+
+Votre billet pour le trajet Paris Gare de Lyon - Lyon Part-Dieu du
+14 septembre 2026 (depart 07h56, voiture 12, place 44) est confirme.
+
+Retrouvez votre billet dans l'application ou sur
+https://www.sncf-connect.com/mes-voyages
+
+A bientot,
+L'equipe SNCF Connect
+
+--b1_sep2026
+Content-Type: text/html; charset="UTF-8"
+
+<html><body>
+<p>Bonjour Camille,</p>
+<p>Votre billet pour le trajet <b>Paris Gare de Lyon &rarr; Lyon Part-Dieu</b>
+du 14 septembre 2026 (d&eacute;part 07h56, voiture 12, place 44) est confirm&eacute;.</p>
+<p><a href="https://www.sncf-connect.com/mes-voyages">Retrouvez votre billet</a></p>
+<p>&Agrave; bient&ocirc;t,<br>L'&eacute;quipe SNCF Connect</p>
+</body></html>
+
+--b1_sep2026--

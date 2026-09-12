@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+build/
+dist/
+.venv/
+venv/
+env/
+
+# Outils
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+# Éditeurs
+.vscode/
+.idea/
+*.swp
+.DS_Store
+
+# Données sensibles : ne jamais versionner de vrais messages ni de rapports
+# issus d'une vraie boîte mail.
+*.json
+!samples/*.json
+rapport*.json
+alertes*.json
+*.eml
+!samples/*.eml
+*.mbox
+.env
